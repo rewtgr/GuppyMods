@@ -1,6 +1,6 @@
 <configs>
 	<append xpath="/recipes">
-		<!-- Guppy's Torch Mod -->
+		<!-- Guppy's CanGrenade Mod -->
 		<recipe name="canGrenade" count="1" >
 			<ingredient name="drinkCanEmpty" count="1"/>
 			<ingredient name="resourceGunPowder" count="5"/>
